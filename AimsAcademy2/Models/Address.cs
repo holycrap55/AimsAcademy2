@@ -7,7 +7,7 @@ using System.Web;
 
 namespace AimsAcademy2.Models
 {
-    public class Address
+    public class Address//
     {
         [Key]
         public int AddressID { get; set; }

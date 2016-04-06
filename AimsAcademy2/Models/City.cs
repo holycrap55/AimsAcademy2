@@ -9,6 +9,7 @@ namespace AimsAcademy2.Models
 {
     public class City
     {
+        //dasdasd
         [Key]
         public int CityID { get; set; }
         public string cityName { get; set; }
